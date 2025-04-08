@@ -1,0 +1,16 @@
+* {
+    padding: 1rem;
+}
+a {
+    text-decoration: none;
+}
+h1, h2 {
+    font-family: Raleway, serif ;
+}
+p {
+    font-family: open sans, sans-serif ;
+}
+header {
+    background-color: #093872;
+    
+}
